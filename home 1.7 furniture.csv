@@ -1,0 +1,108 @@
+Name	Width	Depth	Height	Elevation	Level	Visible
+Door	0.80	0.195	2.083	0.00	Level 0	true
+Door	0.80	0.195	2.083	0.00	Level 0	true
+Door	0.80	0.195	2.083	0.00	Level 0	true
+Door	0.80	0.195	2.083	0.00	Level 0	true
+Door	0.80	0.195	2.083	0.00	Level 0	true
+Door	0.914	0.331	2.083	0.00	Level 0	true
+Door	0.914	0.331	2.083	0.00	Level 0	true
+Door	0.70	0.195	2.083	0.00	Level 0	true
+Door	0.80	0.195	2.083	0.00	Level 1	true
+Door	0.80	0.195	2.083	0.00	Level 1	true
+frenchDoors	2.00	0.17	2.05	0.00	Level 1	true
+frenchDoors	2.00	0.17	2.05	0.00	Level 0	true
+Door	0.80	0.195	2.083	0.00	Level 1	true
+Door	0.80	0.195	2.083	0.00	Level 1	true
+Door	0.80	0.195	2.083	0.00	Level 1	true
+Door	0.914	0.331	2.083	0.00	Level 1	true
+Slider window	1.20	0.181	1.30	1.00	Level 0	true
+Slider window	1.20	0.181	1.30	1.00	Level 0	true
+Slider window	1.20	0.181	1.30	1.00	Level 0	true
+rectangularFivePanesWindow	2.081	0.17	1.30	1.00	Level 1	true
+rectangularFivePanesWindow	2.081	0.17	1.30	1.00	Level 0	true
+rectangularFivePanesWindow	2.081	0.17	1.30	1.00	Level 0	true
+rectangularFivePanesWindow	2.081	0.17	1.30	1.00	Level 0	true
+rectangularFivePanesWindow	2.081	0.17	1.30	1.00	Level 1	true
+rectangularFivePanesWindow	2.081	0.17	1.30	1.00	Level 1	true
+Slider window	1.20	0.181	1.30	1.00	Level 1	true
+Slider window	1.20	0.181	1.30	1.00	Level 1	true
+Slider window	1.20	0.181	1.30	1.00	Level 1	true
+Slider window	1.20	0.181	1.30	1.00	Level 1	true
+Slider window	2.13	0.181	1.30	1.00	Level 0	true
+Slider window	1.20	0.181	1.30	1.00	Level 0	true
+Slider window	1.20	0.181	1.30	1.00	Level 1	true
+Shower	1.00	0.90	2.108	0.00	Level 0	false
+Washbasin with cabinet	0.622	0.45	0.965	0.00	Level 0	false
+Toilet unit	0.40	0.80	0.622	0.00	Level 0	false
+Fitted bath	1.40	0.762	0.711	0.00	Level 0	false
+Toilet unit	0.40	0.80	0.622	0.00	Level 0	false
+Washbasin with cabinet	0.60	0.572	0.965	0.00	Level 0	false
+Wardrobe	0.70	0.54	1.651	0.00	Level 0	false
+Wardrobe	2.99	0.54	1.651	0.00	Level 0	false
+Wardrobe	2.99	0.54	1.651	0.00	Level 0	false
+Wardrobe	2.99	0.54	1.651	0.00	Level 0	false
+Double bed	1.524	2.07	0.699	0.00	Level 0	false
+Bedside table	0.381	0.381	0.495	0.00	Level 0	false
+Bedside table	0.381	0.381	0.495	0.00	Level 0	false
+Single bed	0.90	2.007	0.699	0.00	Level 0	false
+Single bed	0.90	2.007	0.699	0.00	Level 0	false
+Single bed	0.90	2.007	0.699	0.00	Level 0	false
+Single bed	0.90	2.007	0.699	0.00	Level 0	false
+Clothes washer	0.597	0.629	0.851	0.00	Level 0	false
+Clothes washer	0.597	0.629	0.851	0.00	Level 0	false
+Kitchen cabinet	2.50	0.62	0.95	0.00	Level 0	false
+Kitchen cabinet	1.09	0.64	0.95	0.00	Level 0	false
+Sink	1.20	0.635	1.06	0.00	Level 0	false
+Kitchen cabinet	1.40	0.63	0.851	0.00	Level 0	false
+Fridge & Freezer	0.597	0.66	1.854	0.00	Level 0	false
+Workbench	1.20	0.55	0.80	0.00	Level 0	false
+Bookcase	1.25	0.40	2.20	0.00	Level 0	false
+Corner sofa	2.85	2.10	0.87	0.00	Level 0	false
+Square table	1.40	1.40	0.737	0.00	Level 0	false
+Chair	0.40	0.419	0.902	0.00	Level 0	false
+Chair	0.40	0.419	0.902	0.00	Level 0	false
+Chair	0.40	0.419	0.902	0.00	Level 0	false
+Chair	0.40	0.419	0.902	0.00	Level 0	false
+Chair	0.40	0.419	0.902	0.00	Level 0	false
+Chair	0.40	0.419	0.902	0.00	Level 0	false
+Bookcase	1.15	0.44	1.50	0.00	Level 0	false
+pantry	2.50	0.55	2.40	0.00	Level 1	false
+pantry	2.59	0.52	2.40	0.00	Level 1	false
+pantry	2.98	0.52	2.25	0.00	Level 1	false
+Double bed	1.524	2.07	0.699	0.00	Level 1	false
+Single bed	0.90	2.007	0.699	0.00	Level 1	false
+Single bed	0.90	2.007	0.699	0.00	Level 1	false
+Single bed	0.90	2.007	0.699	0.00	Level 1	false
+Shower	0.787	0.787	2.108	0.00	Level 1	false
+Toilet unit	0.40	0.80	0.622	0.00	Level 1	false
+Washbasin with cabinet	0.622	0.45	0.965	0.00	Level 1	false
+Fitted bath	1.40	0.762	0.711	0.00	Level 1	false
+Toilet unit	0.40	0.80	0.622	0.00	Level 1	false
+Washbasin with cabinet	0.86	0.57	0.965	0.00	Level 1	false
+Clothes washer	0.597	0.629	0.851	0.00	Level 1	false
+Clothes washer	0.597	0.629	0.851	0.852	Level 1	false
+Sink	1.20	0.635	1.06	0.00	Level 1	false
+Kitchen cabinet	2.04	0.59	0.851	0.00	Level 1	false
+Kitchen cabinet	1.20	0.59	0.851	0.00	Level 1	false
+Fridge & Freezer	0.597	0.66	1.854	0.00	Level 1	false
+Square table	1.143	1.143	0.737	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+Chair	0.40	0.419	0.902	0.00	Level 1	false
+sofa	2.488	1.896	0.78	0.00	Level 1	false
+Bookcase	1.74	0.41	1.50	0.00	Level 1	false
+Cooker	0.597	0.622	0.851	0.00	Level 1	false
+Cooker	0.597	0.622	0.851	0.00	Level 0	false
+Kitchen cabinet	0.597	0.635	0.851	0.00	Level 0	false
+bathroom+window	0.60	0.17	0.609	1.80	Level 0	false
+bathroom+window	0.60	0.17	0.609	1.80	Level 0	false
+bathroom+window	0.60	0.17	0.609	1.80	Level 1	false
+bathroom+window	0.60	0.17	0.609	1.80	Level 1	false
+Clothesline	2.00	1.065	0.179	2.00	Level 0	false
+pantry	0.69	0.52	2.40	0.00	Level 1	false
+DiDi+Modern+Kitchen+Cabinets+Uppers	1.829	0.397	0.762	1.70	Level 0	false
